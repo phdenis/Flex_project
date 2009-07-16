@@ -4,7 +4,6 @@
 
 main()
 {
-        printf("Bonjour, Monde\n");
-	printf"je m'applelle philippe");
+        printf("Hola"\n");
 }
 
