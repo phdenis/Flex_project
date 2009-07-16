@@ -4,6 +4,6 @@
 
 main()
 {
-        printf("hello, world\n");
+        printf("Bonjour, Monde\n");
 }
 
